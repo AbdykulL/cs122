@@ -1,0 +1,128 @@
+body{
+    background-color: #ced1de;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: "Montserrat", sans-serif;
+ 
+
+}
+.write  {
+    display: flex;
+    flex-direction: row;
+    margin-left: 35px;
+}
+.bot{
+    margin-left: 32px;
+}
+.container {
+
+    background-color: #eff0f2;
+        width: 1025px;
+        height: 500px;
+        padding: 30px;
+        border-radius: 25px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+
+}
+.cont img {
+    width: 270px;
+        height: 200px;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-left: 15px;
+
+}
+.beka img {
+    width: 85px;
+        height: 70px;
+        border-radius: 25px;
+        margin-left: 8px;
+        margin-top: 10px ;
+    }
+.cont2 img {
+    width: 270px;
+        height: 200px;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-left: 15px;
+}
+.assyl img{
+    width: 85px;
+    height: 70px;
+    border-radius: 25px;
+    margin-left: 8px;
+    margin-top: 10px;
+    
+}
+.cont3 img {
+    width: 270px;
+        height: 200px;
+        border-radius: 20px;
+        margin-top: 15px;
+        margin-left: 15px;
+    }
+
+.bura img {
+    width: 85px;
+        height: 70px;
+        border-radius: 25px;
+        margin-left: 8px;
+        margin-top: 10px;
+}
+.lei{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    
+}
+.row1{
+    background-color: white;
+        width: 300px;
+        height: 350px;
+        margin-left: 30px;
+        border-radius: 20px;
+}
+
+.box{
+    border-radius: 5px;
+    border: none ;
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    
+}
+.description {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    height: 20px;
+    
+
+}
+.picture img {
+    width: 20px;
+    height: 20px;
+    margin-left: 185px;
+    margin-top: -5px;
+
+    }
+    
+h4 {
+    font-weight: 550;
+    margin-top: -2px;
+    font-size: 30px;
+    margin-left: 13px;}
+.picture p {
+    margin-top: -22px;
+    font-size: 13px;
+    margin-left: 210px;
+    
+    }
+
+h4{
+    font-size: small;
+}
